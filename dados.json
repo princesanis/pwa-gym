@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "GYM 01",
+        "url": "images/gym01.jpg"
+    },
+    {
+        "nome": "GYM 02",
+        "url": "images/gym02.jpg"
+    },
+    {
+        "nome": "GYM 03",
+        "url": "images/gym03.jpg"
+    },
+    {
+        "nome": "GYM 04",
+        "url": "images/gym04.jpg"
+    },
+    {
+        "nome": "GYM - 05",
+        "url": "images/gym05.jpg"
+    }    
+]
